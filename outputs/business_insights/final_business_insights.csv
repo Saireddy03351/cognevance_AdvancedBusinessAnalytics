@@ -1,0 +1,9 @@
+Insight_Category,Finding
+Most Variable Metric,Orders
+Most Stable Metric,Customers
+Metric With Most Outliers,"Revenue, Quantity"
+Highest Outlier Percentage,Revenue
+Lowest Outlier Percentage,Orders
+Largest Performance Gap,Orders
+Best Revenue Month,2011-11
+Worst Revenue Month,2011-02

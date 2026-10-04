@@ -1,0 +1,5 @@
+Metric,Best_Month,Best_Value,Worst_Month,Worst_Value,Performance_Gap,Performance_Gap_Percentage
+Revenue,2011-11,1156205.61,2011-02,446084.92,710120.6900000002,159.19
+Orders,2011-11,2657.0,2011-12,778.0,1879.0,241.52
+Customers,2011-11,1664.0,2011-12,615.0,1049.0,170.57
+Quantity,2011-11,665923.0,2011-02,265027.0,400896.0,151.27

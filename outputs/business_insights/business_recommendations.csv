@@ -1,0 +1,5 @@
+Recommendation_ID,Focus_Area,Recommendation
+R1,Performance Variability,Monitor Orders closely because it shows the greatest month-to-month variability.
+R2,Outlier Monitoring,"Investigate unusual changes in Revenue, Quantity because it recorded the highest number of outliers."
+R3,Performance Gap,Develop improvement strategies for Orders because it shows the largest gap between best and worst monthly performance.
+R4,Best Month Strategy,Study the factors contributing to the strong performance in 2011-11 and use them to improve weaker revenue months.

@@ -1,0 +1,4 @@
+Insight,Metric,Business_Interpretation
+Metric With Most Outliers,"Revenue, Quantity","Revenue, Quantity recorded the highest number of unusual monthly observations."
+Highest Outlier Percentage Metric,Revenue,Revenue has the highest proportion of months classified as outliers.
+Lowest Outlier Percentage Metric,Orders,Orders has the lowest proportion of months classified as outliers.
