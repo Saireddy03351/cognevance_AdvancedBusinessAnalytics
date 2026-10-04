@@ -1,0 +1,20 @@
+Visualization,File_Name
+Monthly Mean vs Median,monthly_mean_vs_median.png
+Monthly Standard Deviation,monthly_standard_deviation.png
+Monthly Coefficient of Variation,monthly_coefficient_of_variation.png
+Monthly Outlier Count,monthly_outlier_count.png
+Monthly Outlier Percentage,monthly_outlier_percentage.png
+Best vs Worst Monthly Performance,best_vs_worst_monthly_performance.png
+Top 5 Revenue Months,top_5_revenue_months.png
+Top 5 Orders Months,top_5_orders_months.png
+Top 5 Customers Months,top_5_customers_months.png
+Top 5 Quantity Months,top_5_quantity_months.png
+Bottom 5 Revenue Months,bottom_5_revenue_months.png
+Bottom 5 Orders Months,bottom_5_orders_months.png
+Bottom 5 Customers Months,bottom_5_customers_months.png
+Bottom 5 Quantity Months,bottom_5_quantity_months.png
+Top vs Bottom 5 Revenue,top_vs_bottom_5_revenue.png
+Top vs Bottom 5 Orders,top_vs_bottom_5_orders.png
+Top vs Bottom 5 Customers,top_vs_bottom_5_customers.png
+Top vs Bottom 5 Quantity,top_vs_bottom_5_quantity.png
+Monthly Outlier Severity,monthly_outlier_severity.png
