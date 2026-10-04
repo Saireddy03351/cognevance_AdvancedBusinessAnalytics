@@ -1,0 +1,5 @@
+Metric,Outlier_Count,Outlier_Status
+Revenue,3,Outliers Detected
+Orders,1,Outliers Detected
+Customers,2,Outliers Detected
+Quantity,3,Outliers Detected

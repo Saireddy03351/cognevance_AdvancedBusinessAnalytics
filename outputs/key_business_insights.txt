@@ -1,0 +1,15 @@
+KEY BUSINESS INSIGHTS
+=====================
+
+Highest Revenue Country: United Kingdom
+Highest Revenue Product: ('23843', 'PAPER CRAFT , LITTLE BIRDIE')
+Highest Revenue Month: 2011-11
+Highest Revenue Weekday: Thursday
+
+ADDITIONAL BUSINESS INSIGHTS
+============================
+
+Highest Revenue Hour: 12
+Highest Revenue Season: Autumn
+Highest Revenue Quarter: Q4
+Highest Revenue Customer Type: Regular

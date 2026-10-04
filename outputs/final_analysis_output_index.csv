@@ -1,0 +1,14 @@
+Output_File,Purpose
+combined_growth_highlights.csv,Best and worst growth comparison
+top_5_monthly_performance.csv,Top performing months
+bottom_5_monthly_performance.csv,Bottom performing months
+monthly_performance_comparison.csv,Best vs worst monthly performance
+monthly_performance_difference.csv,Best vs worst performance difference
+monthly_performance_ratio.csv,Best to worst performance ratio
+monthly_statistical_summary.csv,Monthly statistical measures
+monthly_iqr_summary.csv,Monthly interquartile range analysis
+final_monthly_outlier_summary.csv,Final monthly outlier summary
+final_monthly_analysis_dashboard.csv,Combined monthly dashboard data
+final_project_kpi_summary.csv,Final project KPI summary
+final_project_summary.csv,Final project findings
+final_analysis_checklist.csv,Analysis completion checklist

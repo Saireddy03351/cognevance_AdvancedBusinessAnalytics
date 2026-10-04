@@ -1,0 +1,6 @@
+Summary_Item,Value
+Most Variable Metric,Orders
+Most Stable Metric,Customers
+Metric With Most Outliers,"Revenue, Quantity"
+Highest Outlier Percentage Metric,Revenue
+Lowest Outlier Percentage Metric,Orders

@@ -1,0 +1,5 @@
+Metric,Total_Months,Outlier_Count,Outlier_Percentage,Outlier_Severity
+Revenue,13,3,23.08,High
+Orders,13,1,7.69,Low
+Customers,13,2,15.38,Moderate
+Quantity,13,3,23.08,High
